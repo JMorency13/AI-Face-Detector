@@ -1,1 +1,2 @@
-# AI-Face-Detector
+# AI-Face-
+A work in progress AI program that can detect facial landmarks and face types of a given image. The program is trained from a database of celebrity images, categorized by different face types: oblong, heart, round, oval, square. The program uses python language. The folders that hold the data of the categorized training images in not in this repository as it was a large body of files that could not be added by folders.
